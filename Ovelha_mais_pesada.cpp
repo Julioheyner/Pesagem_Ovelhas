@@ -1,4 +1,4 @@
-/*i) Entrar com o peso e a identificação de ovelhas. Ao final especifica a ovelha mais pesada e o seu número de identificação e a mais leve e o número de identificação.*/
+/*Entrar com o peso e a identificação de ovelhas. Ao final especifica a ovelha mais pesada e o seu número de identificação e a mais leve e o número de identificação.*/
 #include <stdio.h>
 #include <stdlib.h>
 int main(){					
